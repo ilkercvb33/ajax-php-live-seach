@@ -1,2 +1,1 @@
-# ajax-php-live-seach
-Ajax ve Php İle Canlı Veri Süzdürme
+* This codes and repostories created by www.ilkertuncer.com
